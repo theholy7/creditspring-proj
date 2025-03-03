@@ -1,0 +1,7 @@
+name: creditspring_proj
+
+services:
+  orchestrator:
+    build: .
+    ports:
+      - "6789:6789"
