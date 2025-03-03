@@ -28,10 +28,7 @@ Add at least one transformation to dataset before exporting to parquet or delta 
 
 ### Ensure that your submission includes the following:
 The exported pipeline from Mage (select the pipeline and press the floppy disk icon)
+
 Note: The quality of your documentation and the clarity of your code will be considered in the evaluation. This should take about 1,5 hours to complete. The results should be sent to nuno@.co at least 1 day before the interview date you've picked.
 
 Best of luck!
-
-Kind regards,
-
-Nuno Faustino
